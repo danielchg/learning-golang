@@ -9,7 +9,7 @@ func main() {
 //	var x float64 = 20.0
 //	y := 42
 //	var a, b, c = 3, 4, "foo"
-//   fmt.Println(a)
+//  fmt.Println(a)
 //	fmt.Println(b)
 //	fmt.Println(c)
 //	fmt.Printf("a is of the type %T\n", a)
